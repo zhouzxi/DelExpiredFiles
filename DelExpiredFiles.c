@@ -23,7 +23,6 @@ typedef unsigned char   UINT8;
 // 函数声明
 void Sleep(UINT32 iCountMs);
 void DelExpiredFiles(UINT8 *pszFileSaveDir, UINT32 iFileSaveDays);
-INT32 main();
 
 
 /**********************************************************************
